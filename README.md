@@ -31,7 +31,7 @@ This repository is using a monorepo strategy which lets us have one source of tr
 
 | Package                                                                                                                       | Version                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [@scaling-robot-plugins/plugin-chart-composed](https://github.com/nielsen-oss/scaling-robot-plugins/tree/master/plugins/plugin-chart-composed)                     | [![Version](https://img.shields.io/npm/v/@scaling-robot-plugins/plugin-chart-composed?style=flat-square)](https://www.npmjs.com/package/@scaling-robot-plugins/plugin-chart-composed)                             |
+| [@scaling-robot-plugins/plugin-chart-composed](https://github.com/amitmiran137/scaling-robot-plugins/tree/master/plugins/plugin-chart-composed)                     | [![Version](https://img.shields.io/npm/v/@scaling-robot-plugins/plugin-chart-composed?style=flat-square)](https://www.npmjs.com/package/@scaling-robot-plugins/plugin-chart-composed)                             |
 
 
 ### Additional docs:

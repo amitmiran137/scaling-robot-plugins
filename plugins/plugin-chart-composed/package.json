@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:nielsen-oss/superset-viz-plugins.git"
+    "url": "git+https://github.com:amitmiran137/scaling-robot-plugins.git"
   },
   "keywords": [
     "superset"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nielsen-oss/superset-viz-plugins/iissues"
+    "url": "https://github.com/amitmiran137/scaling-robot-plugins/iissues"
   },
   "publishConfig": {
     "access": "public"

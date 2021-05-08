@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:nielsen-oss/superset-viz-plugins.git"
+    "url": "git+https://github.com:amitmiran137/scaling-robot-plugins.git"
   },
   "keywords": [
     "superset",
@@ -32,9 +32,9 @@
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/nielsen-oss/superset-viz-plugins/issues"
+    "url": "https://github.com/amitmiran137/scaling-robot-plugins/issues"
   },
-  "homepage": "https://github.com/nielsen-oss/superset-viz-plugins/issues#readme",
+  "homepage": "https://github.com/amitmiran137/scaling-robot-plugins/issues#readme",
   "dependencies": {
     "react": "^16.13.1"
   },
