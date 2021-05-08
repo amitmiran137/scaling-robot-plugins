@@ -1,6 +1,6 @@
 {
-  "name": "superset-viz-plugins",
-  "description": "Superset viz plugins by Nielsen",
+  "name": "scaling-robot-plugins",
+  "description": "Superset viz plugins by scaling robot",
   "private": true,
   "scripts": {
     "build": "lerna run build:prod && lerna run build:esm",
@@ -26,7 +26,7 @@
     "ci:release-from-tag": "yarn lerna publish --no-verify-access --yes",
     "ci:release-conventional": "yarn clean-npm-lock && lerna publish --conventional-commits --create-release github --no-git-tag-version --no-push"
   },
-  "repository": "https://github.com/nielsen-oss/superset-viz-plugins",
+  "repository": "https://github.com/amitmiran137/scaling-robot-plugins",
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "7.7.4",

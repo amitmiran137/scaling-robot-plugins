@@ -12,9 +12,9 @@ jobs:
     runs-on: ubuntu-latest
     env:
       SUPERSET_VERSION: '1.2'
-      PRESET_NAME: Nielsen
-      PROJECT_WORKING_DIRECTORY: superset-viz-plugins
-      REPOSITORY_OWNER: nielsen-oss
+      PRESET_NAME: MYPreset
+      PROJECT_WORKING_DIRECTORY: scaling-robot-plugins
+      REPOSITORY_OWNER: amitmiran137
     steps:
     - name: Use Node.js
       uses: actions/setup-node@v1

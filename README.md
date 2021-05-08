@@ -1,5 +1,5 @@
-# superset-viz-plugins
-![release-workflow](https://github.com/nielsen-oss/superset-viz-plugins/workflows/release-workflow/badge.svg)
+# scaling-robot-plugins
+![release-workflow](https://github.com/amitmiran137/scaling-robot-plugins/workflows/release-workflow/badge.svg)
 
 ### Project Overview
 
