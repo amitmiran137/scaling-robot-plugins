@@ -12,7 +12,7 @@ Configure `key`, which can be any `string`, and register the plugin. This `key` 
 import ComposedChartPlugin from '@scaling-robot-plugins/plugin-chart-composed';
 
 new ComposedChartPlugin()
-  .configure({ key: 'nielsen-oss-composed' })
+  .configure({ key: 'amitmiran137-composed' })
   .register();
 ```
 
@@ -20,7 +20,7 @@ Then use it via `SuperChart`. See [storybook](https://apache-superset.github.io/
 
 ```js
 <SuperChart
-  chartType="nielsen-oss-composed"
+  chartType="amitmiran137-composed"
   width={600}
   height={600}
   formData={...}
