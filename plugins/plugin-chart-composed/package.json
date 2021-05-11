@@ -1,6 +1,6 @@
 {
-  "name": "@scaling-robot-plugins/plugin-chart-composed",
-  "version": "0.0.2",
+  "name": "@superset-viz-plugins/plugin-chart-composed",
+  "version": "0.14.8",
   "description": "Superset Chart - Chart Composed",
   "pluginName": "ComposedChartPlugin",
   "sideEffects": false,
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com:amitmiran137/scaling-robot-plugins.git"
+    "url": "git+https://github.com:nielsen-oss/superset-viz-plugins.git"
   },
   "keywords": [
     "superset"
   ],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/amitmiran137/scaling-robot-plugins/iissues"
+    "url": "https://github.com/nielsen-oss/superset-viz-plugins/iissues"
   },
   "publishConfig": {
     "access": "public"
